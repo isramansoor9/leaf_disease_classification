@@ -110,9 +110,9 @@ To run the project locally, ensure you have TensorFlow and other dependencies in
 
 ## Dependencies
 
-TensorFlow
-NumPy
-Matplotlib
+- TensorFlow
+- NumPy
+- Matplotlib
 
 ## Future Improvements
 Future enhancements to the project may include deploying the model as a web application or integrating it with IoT devices for real-time disease detection in agricultural settings.
